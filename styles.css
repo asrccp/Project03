@@ -1,6 +1,6 @@
 @font-face {
     font-family: "openDyslexic";
-    src: url('https://raw.githubusercontent.com/asrccp/Font/0cb57dfca15fd8485cb195dc8bd73fa0eb97b65d/fonts/OpenDyslexic-Regular.woff') format('woff');
+    src: url('https://asrccp.github.io/Project03/fonts/OpenDyslexic-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -105,5 +105,6 @@ footer {
   background-color: #000000;
   padding: 1.5%;
 }
+
 
 
