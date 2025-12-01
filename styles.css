@@ -1,6 +1,6 @@
 @font-face {
     font-family: "openDyslexic";
-    src: url('https://asrccp.github.io/Project03/fonts/OpenDyslexic-Regular.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/asrccp/Font/07e3b8690a7c82f5c202259150f6c3f78ef76189/OpenDyslexic-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -56,21 +56,21 @@ img {
 }
 
 p {
-  font-family: Arial;
+  font-family: "openDyslexic", Arial;
   font-size: 20px;
   color: #000000;
 }
 
 .cred {
-  font-family: Arial;
+  font-family: "openDyslexic", Arial;
   font-size: 15px;
   color: #6c6c6c;
 }
 
 a.cred {
-  font-family: Arial;
+  font-family: "openDyslexic", Arial;
   font-size: 15px;
-  color: #000000;
+  color: #606060;
 }
 
 a.cred:hover {
@@ -78,20 +78,20 @@ a.cred:hover {
 }
 
 .txt {
-  font-family: Arial;
+  font-family: "openDyslexic", Arial;
   font-size: 20px;
   text-align: left;
   color: #272727;
 }
 
 a.txt {
-  font-family: Arial;
+  font-family: "openDyslexic", Arial;
   font-size: 25px;
   color: #2b2b2b;
 }
 
 a.txt:hover {
-  font-family: Arial;
+  font-family: "openDyslexic", Arial;
   font-size: 25px;
   color: #000000;
   transition: opacity 2s ease-in;
@@ -101,16 +101,7 @@ footer {
   font-size: 20px;
   font-style: italic;
   text-align: center;
-  font-family: Arial;
+  font-family: "openDyslexic", Arial;
   background-color: #ffffff;
   padding: 1.5%;
 }
-
-
-
-
-
-
-
-
-
